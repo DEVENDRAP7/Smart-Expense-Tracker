@@ -63,6 +63,3 @@ This prevents frequent unnecessary calls.
 4. AI Setup (optional)
     Add your AI API key in a local.properties or secure config file
     Make sure to throttle requests to avoid HTTP 429 errors
-
-## 📁 Project Structure
-
